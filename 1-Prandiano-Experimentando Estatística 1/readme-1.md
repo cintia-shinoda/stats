@@ -1,4 +1,4 @@
-# Experimentando Estatística 1 - Prandiano  ![0%](https://progress-bar.dev/0)
+# Experimentando Estatística 1 - Prandiano
 
 
 
@@ -9,7 +9,7 @@
 | &check; |  | 03 | 23/03/2024 |  |
 | &check; |  | 04 | 13/04/2024 |  |
 | &check; |  | 05 | 04/05/2024 |  |
-|  |  | 06 | 11/05/2024 |  |
+| &check; |  | 06 | 11/05/2024 |  |
 |  |  | 07 | 18/05/2024 |  |
 |  |  | 08 | 25/05/2024 |  |
 |  |  | 09 | 08/06/2024 |  |
