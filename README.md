@@ -4,4 +4,4 @@
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
 |  |  |  |  |  |
-|  |  | Experimentando Estatística 1 | Prandiano | ![92%](https://progress-bar.dev/92) |
+|  |  | Experimentando Estatística 1 | Prandiano | ![100%](https://progress-bar.dev/100) |
