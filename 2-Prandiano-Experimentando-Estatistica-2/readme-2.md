@@ -11,3 +11,4 @@
 | &check; |  | 05 | 21/09/2024 | $\={A}$-Inversa e $\theta$-Likelihood |
 | &check; |  | 06 | 28/09/2024 | C-Camberra, S-Standard e C-Covariance |
 | &check; |  | 07 | 05/10/2024 | J-Jaccard, H-Hamming e T-Topsis |
+| &check; |  | 08 | 12/10/2024 | Z-Conover e M-Markowitz |
