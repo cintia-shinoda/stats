@@ -5,4 +5,4 @@
 |:---:|:---:|:---|:---|:---:|
 |  |  |  |  |  |
 | &check; | 1 | Experimentando Estatística 1 | Prandiano | ![100%](https://geps.dev/progress/100) |
-|  | 2 | Experimentando Estatística 2 | Prandiano | ![73%](https://geps.dev/progress/73) |
+|  | 2 | Experimentando Estatística 2 | Prandiano | ![82%](https://geps.dev/progress/82) |

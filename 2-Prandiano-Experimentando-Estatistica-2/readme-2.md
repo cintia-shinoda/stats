@@ -12,3 +12,4 @@
 | &check; |  | 06 | 28/09/2024 | C-Camberra, S-Standard e C-Covariance |
 | &check; |  | 07 | 05/10/2024 | J-Jaccard, H-Hamming e T-Topsis |
 | &check; |  | 08 | 12/10/2024 | Z-Conover e M-Markowitz |
+| &check; |  | 09 | 19/10/2024 | D-Disjuntor, K-LoF e Q-Quantis |
