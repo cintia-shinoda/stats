@@ -2,7 +2,7 @@
 
 
 
-|  |  | # | Data |  |
+|  |  | # | Data | Conteúdo |
 |:---:|:---:|:---:|:---:|:---|
 | &check; |  | 01 | 27/07/2024 | C-Kernel e $\rho$-Density |
 | &check; |  | 02 | 17/08/2024 | K-LoF, ViF-Inflation e $\lambda$-Ridge |
@@ -14,3 +14,4 @@
 | &check; |  | 08 | 12/10/2024 | Z-Conover e M-Markowitz |
 | &check; |  | 09 | 19/10/2024 | D-Disjuntor, K-LoF e Q-Quantis |
 | &check; |  | 10 | 26/10/2024 | D-Discrepantia, G-Genética e E-Equações |
+| &check; |  | 11 | 09/11/2024 |  |
