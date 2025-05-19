@@ -9,3 +9,4 @@
 | &check; |  | 03 | 23/02/2025 | D-Dimensão |
 | &check; |  | 04 | 16/03/2025 | D-Diana; $\theta$-Rock |
 | &check; |  | 05 | 13/04/2025 | A-Adaboost |
+| &check; |  | 06 | 18/05/2025 | C-Comparator; I-Matrix |
